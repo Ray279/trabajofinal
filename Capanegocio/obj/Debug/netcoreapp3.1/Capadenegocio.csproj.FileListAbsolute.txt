@@ -1,0 +1,13 @@
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\bin\Debug\netcoreapp3.1\Capadenegocio.deps.json
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\bin\Debug\netcoreapp3.1\Capadenegocio.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\bin\Debug\netcoreapp3.1\Capadenegocio.pdb
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\bin\Debug\netcoreapp3.1\Basedatos.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\bin\Debug\netcoreapp3.1\Basedatos.pdb
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\obj\Debug\netcoreapp3.1\Capadenegocio.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\obj\Debug\netcoreapp3.1\Capadenegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\obj\Debug\netcoreapp3.1\Capadenegocio.AssemblyInfoInputs.cache
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\obj\Debug\netcoreapp3.1\Capadenegocio.AssemblyInfo.cs
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\obj\Debug\netcoreapp3.1\Capadenegocio.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\obj\Debug\netcoreapp3.1\Capadenegocio.csproj.CopyComplete
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\obj\Debug\netcoreapp3.1\Capadenegocio.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Capanegocio\obj\Debug\netcoreapp3.1\Capadenegocio.pdb

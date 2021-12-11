@@ -1,0 +1,49 @@
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Gestion de Almacen.exe
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Gestion de Almacen.dll.config
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Gestion de Almacen.deps.json
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Gestion de Almacen.runtimeconfig.json
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Gestion de Almacen.runtimeconfig.dev.json
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Gestion de Almacen.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Gestion de Almacen.pdb
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Basedatos.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Capadenegocio.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Capadenegocio.pdb
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Basedatos.pdb
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion de Almacen.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion_de_Almacen.Form1.resources
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion_de_Almacen.Form2.resources
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion_de_Almacen.Form3.resources
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion_de_Almacen.Form4.resources
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion_de_Almacen.Form5.resources
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion_de_Almacen.Properties.Resources.resources
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion de Almacen.csproj.GenerateResource.cache
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion de Almacen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion de Almacen.AssemblyInfoInputs.cache
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion de Almacen.AssemblyInfo.cs
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion de Almacen.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion de Almacen.csproj.CopyComplete
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion de Almacen.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion de Almacen.pdb
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\obj\Debug\netcoreapp3.1\Gestion de Almacen.genruntimeconfig.cache
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Gestion de Almacen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll

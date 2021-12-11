@@ -1,0 +1,10 @@
+C:\Users\sonic\source\repos\Gestion de Almacen\Basedatos\bin\Debug\netcoreapp3.1\Basedatos.deps.json
+C:\Users\sonic\source\repos\Gestion de Almacen\Basedatos\bin\Debug\netcoreapp3.1\Basedatos.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Basedatos\bin\Debug\netcoreapp3.1\Basedatos.pdb
+C:\Users\sonic\source\repos\Gestion de Almacen\Basedatos\obj\Debug\netcoreapp3.1\Basedatos.csproj.AssemblyReference.cache
+C:\Users\sonic\source\repos\Gestion de Almacen\Basedatos\obj\Debug\netcoreapp3.1\Basedatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonic\source\repos\Gestion de Almacen\Basedatos\obj\Debug\netcoreapp3.1\Basedatos.AssemblyInfoInputs.cache
+C:\Users\sonic\source\repos\Gestion de Almacen\Basedatos\obj\Debug\netcoreapp3.1\Basedatos.AssemblyInfo.cs
+C:\Users\sonic\source\repos\Gestion de Almacen\Basedatos\obj\Debug\netcoreapp3.1\Basedatos.csproj.CoreCompileInputs.cache
+C:\Users\sonic\source\repos\Gestion de Almacen\Basedatos\obj\Debug\netcoreapp3.1\Basedatos.dll
+C:\Users\sonic\source\repos\Gestion de Almacen\Basedatos\obj\Debug\netcoreapp3.1\Basedatos.pdb
